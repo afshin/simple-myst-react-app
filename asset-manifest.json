@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.ff676f62.css",
-    "main.js": "/static/js/main.e06b69e7.js",
-    "index.html": "/index.html",
-    "main.ff676f62.css.map": "/static/css/main.ff676f62.css.map",
-    "main.e06b69e7.js.map": "/static/js/main.e06b69e7.js.map"
+    "main.css": "/simple-myst-react-app/static/css/main.ff676f62.css",
+    "main.js": "/simple-myst-react-app/static/js/main.e06b69e7.js",
+    "index.html": "/simple-myst-react-app/index.html",
+    "main.ff676f62.css.map": "/simple-myst-react-app/static/css/main.ff676f62.css.map",
+    "main.e06b69e7.js.map": "/simple-myst-react-app/static/js/main.e06b69e7.js.map"
   },
   "entrypoints": [
     "static/css/main.ff676f62.css",
